@@ -1,2 +1,2 @@
 # Senza
-Pagina de la escuela, rodriguez velazquez
+Diseño 2d, rodriguez Velazquez 601
